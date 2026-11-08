@@ -1,0 +1,10 @@
+{
+    "name": "عمر",
+    "age": 21,
+    "skills": [
+        "Python",
+        "Networking",
+        "Flutter"
+    ],
+    "is_student": true
+}
